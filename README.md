@@ -8,7 +8,7 @@ I build the unglamorous half of a product: admin dashboards, role-based access c
 analytics portals, and the workflow automation that deletes manual steps. Five systems in
 production in roughly two years.
 
-[Portfolio](https://haseebahmed010.github.io) &nbsp;·&nbsp;
+[Portfolio](https://haseebahmed.netlify.app) &nbsp;·&nbsp;
 [Email](mailto:haseeeb.1105@gmail.com) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/haseeb-ahmed-97310b357)
 
@@ -55,6 +55,6 @@ Open to freelance and full-time work. I reply within 24 hours.
 
 - **Email** — haseeeb.1105@gmail.com
 - **LinkedIn** — [haseeb-ahmed-97310b357](https://www.linkedin.com/in/haseeb-ahmed-97310b357)
-- **Portfolio** — [haseebahmed010.github.io](https://haseebahmed010.github.io)
+- **Portfolio** — [haseebahmed.netlify.app](https://haseebahmed.netlify.app)
 
 Based in Rahim Yar Khan, Pakistan.
